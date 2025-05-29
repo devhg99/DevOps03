@@ -1,4 +1,4 @@
-date : 2025.05.29
+date : 2025.05.29 (목)
 name : 권혁광
 
 desc : 더존 1기 DECOPS TOOLS 강의 실습
